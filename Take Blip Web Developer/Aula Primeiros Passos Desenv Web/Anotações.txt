@@ -1,0 +1,5 @@
+## Segurança WIFI ##
+
+WEP: Chaves 64 bits e de 128 bits
+WPA: Chave trocada periodicamente
+WPA2 (AES) (802.11i): + Seguro, só que + lento.
