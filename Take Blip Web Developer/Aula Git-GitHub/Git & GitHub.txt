@@ -1,0 +1,28 @@
+### Objetos Git
+
+- Blob
+- Tree
+- Commit
+
+# Blob - SHA1 do arquivo com metadados
+# Tree - Diretorio de Blobs nomeados
+# Commit - Aponta para um arvore e suas bolhas
+
+### Primeiros comandos Git
+
+- git init
+- git add
+- git commit
+
+# Git init - Inicializa o git
+# Git add - Adiciona repositorios ao git
+# Git commit - realizar commits no meu repositorio
+
+### GitHub
+
+# Origin - Apelido para o link do repositorio remoto
+# git pull origin master- Para puxar repositorio e atualizar o respositorio
+#
+# git clone <repositorio> - Para baixar repositorio.
+# git remote -v - Repositorios remotos que o diretorio está
+
