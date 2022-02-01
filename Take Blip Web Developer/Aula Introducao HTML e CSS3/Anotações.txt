@@ -1,0 +1,16 @@
+## Semântica ##
+
+<section>
+<header>
+<article>
+<aside>
+<footer>
+<h1>..<h6>
+
+## Tags Links ##
+
+<a target="_blank">Link</a> - Abrir link em uma nova aba
+
+## Imagens ##
+
+site: https://tinypng.com/ para otimizar imagens.
