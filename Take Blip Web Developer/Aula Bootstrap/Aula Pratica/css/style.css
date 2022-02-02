@@ -1,0 +1,48 @@
+
+
+.navbar{
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+
+.quemSomos{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: blanchedalmond;
+}
+
+h2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h4{
+    margin: 3% 15% 3% 15%;
+}
+
+.parceiros{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color:white;
+    background-color: cadetblue;
+}
+
+.divino{
+    padding-top: 50px;
+}
+
+.row{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.servicos{
+    background-color: blanchedalmond;
+}
+
+.bg-footer{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: black;
+    color: white;
+}
