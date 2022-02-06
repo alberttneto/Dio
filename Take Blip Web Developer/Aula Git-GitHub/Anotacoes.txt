@@ -14,9 +14,13 @@
 - git add
 - git commit
 
-# Git init - Inicializa o git
-# Git add - Adiciona repositorios ao git
-# Git commit - realizar commits no meu repositorio
+# git init - Inicializa o git
+# git add - Adiciona repositorios ao git
+# git commit - realizar commits no meu repositorio
+
+### Outros
+
+# git log - Historico de commits
 
 ### GitHub
 
