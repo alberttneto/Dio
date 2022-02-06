@@ -1,0 +1,8 @@
+## Extenções VSCode ##
+
+- Live Server: Atualiza e mostra as modificações realizadas no código.
+- Auto Rename Tag: Fechamento automatico de tag.
+
+## CSS ##
+
+*{} Agloba toda página
