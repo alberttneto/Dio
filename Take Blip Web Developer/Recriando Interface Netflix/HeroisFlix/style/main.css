@@ -13,7 +13,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -22,6 +22,7 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin-right: 40px;
 }
 
 header .logo{
@@ -35,10 +36,11 @@ header nav a{
     text-decoration: none;
     color: #AAA;
     margin-right: 10px;
+    margin: 20px 20px;
 }
 
 header nav a:hover{
-    color: #fff;
+    color: var(--vermelho);
 }
 
 /*Filme Principal*/
@@ -58,7 +60,7 @@ header nav a:hover{
 
 .filme-principal .descricao{
     margin-bottom: 60px;
-    margin-top: 3px;
+    margin-top: 15px;
 }
 
 .titulo{
@@ -82,4 +84,31 @@ header nav a:hover{
 .botao:hover{
     background-color: white;
     color: black;
+}
+
+.container{
+    margin-left: 28px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+
+/*Seletor Filmes e Series*/
+
+.carrossel{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.titulos-carrossel{
+    margin-bottom: 10px;
+    color: aliceblue;
 }
