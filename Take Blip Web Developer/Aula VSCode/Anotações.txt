@@ -1,0 +1,5 @@
+## Atalhos
+
+Alt + linha: Linhas vão escrever em conjunto
+Ctrl + p: Pesquisar arquivo
+Ctrl + Shift + p: Comandos Do VSCode
