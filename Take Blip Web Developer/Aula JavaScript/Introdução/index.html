@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>Fibonacci</title>
+</head>
+<body>
+
+    <header>
+        <h1 style="text-align: center;">Praticas Introdução JavaScript</h1>
+    </header>
+    <div id="fibo">
+        <h2>Fibonacci</h2>
+        <ul style="list-style: none; padding: 0%;">
+            <li>
+                <label for="entrada">Informe Indice Sequencia Fibonacci:</label>
+            </li>
+            <li>
+                <input type="text" id="entrada">
+            </li>
+            <li>
+                <button type="button" onclick="calcular()">Calcular</button>
+            </li>
+            <li>
+                <label for="saida">Resultado</label>
+            </li>
+            <li>
+                <input type="saida" id="saida" value="0">
+            </li>
+        </ul>
+    </div>
+    <div id="todolist">
+        <div class="inserir">
+            <h2>To-do List</h2>
+            <input type="text" id="item">
+            <button type="button" onclick="addLista()">Adicionar</button>
+        </div>
+
+        <ol class="listaElementos"></ol>
+
+    </div>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>

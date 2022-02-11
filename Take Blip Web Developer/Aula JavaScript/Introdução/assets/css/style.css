@@ -1,0 +1,54 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Fibonacci*/
+#fibo{
+    background-color: rgb(181, 241, 221);
+    text-align: center;
+    padding: 30px 0px;
+    border-radius: 20px;
+}
+
+#fibo input{
+    width: 50px;
+    text-align: center;
+}
+
+#fibo li{
+    margin-top: 15px;
+}
+
+
+#todolist{
+    background-color: rgb(181, 241, 221);
+    margin-top: 10px;
+    padding: 30px 0px;
+    border-radius: 20px;
+}
+
+#todolist .inserir > input, button{
+    height: 30px;
+    border: 3px solid rgb(176, 212, 233);
+    border-radius: 10px;
+}
+
+.inserir{
+    text-align: center;
+}
+
+.inserir button, #fibo button{
+    background-color: rgb(127, 182, 255);
+    font-size: larger;
+}
+
+.listaElementos> li{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-bottom: 5px;
+}
+
+.inserir button:hover, #fibo button:hover{
+    background-color:aliceblue;
+}

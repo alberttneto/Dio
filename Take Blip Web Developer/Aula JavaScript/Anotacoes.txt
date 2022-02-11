@@ -1,0 +1,2 @@
+# Executar arquivo JavaScript no terminal:
+-node "Nome do arquivo"
