@@ -1,2 +1,38 @@
-# Executar arquivo JavaScript no terminal:
+## Executar arquivo JavaScript no terminal:
 -node "Nome do arquivo"
+
+## Manipulando arrays
+forEach() – itera um array;
+push() – add item no final do array;
+pop() – remove item no final do array;
+shift() – remove item no início do array;
+unshift() – add item no início do array;
+indexOf() – retorna o índice de um valor;
+splice() – remove ou substitui um item pelo índice;
+slice() – retorna uma parte de um array existente;
+
+## Objeto
+var xicara = {cor: ‘azul’, tamanho: ‘p’, funcao: tomarCafe()}
+
+## If Ternario
+[condição] ? [instrução1] : [instrução2];
+
+## For/in For/of
+- for/in:
+for ([indice] in [objeto ou array]) {declaracao}
+
+- for/of
+for ([indice] of [array]) {declaracao}
+
+## Tipos de função
+- Expressões de funções:
+
+- Arrow function:
+
+
+## Alguns metodos nativos:
+
+## Operadores:
+- x == y: Valor igual
+- x === y: Mesmo valor e mesmo tipo
+- x !== y: Valor e tipo diferente
