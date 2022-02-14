@@ -26,11 +26,20 @@ for ([indice] of [array]) {declaracao}
 
 ## Tipos de função
 - Expressões de funções:
+var funcao = function() {
+${instrucao};
+};
 
 - Arrow function:
-
+var funcao = () => {
+${instrucao};
+}
 
 ## Alguns metodos nativos:
+Number() – para converter valores em números;
+Prompt() – para registrar entradas de usuário;
+Alert() – para mostrar mensagem ao usuário;
+Template Strings – para usar strings junto com expressões;
 
 ## Operadores:
 - x == y: Valor igual
