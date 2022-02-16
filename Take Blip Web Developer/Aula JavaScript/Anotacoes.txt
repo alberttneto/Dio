@@ -45,3 +45,18 @@ Template Strings – para usar strings junto com expressões;
 - x == y: Valor igual
 - x === y: Mesmo valor e mesmo tipo
 - x !== y: Valor e tipo diferente
+
+## Variaveis dentro da String:
+var nome = "Alberto";
+var sobrenome = "Ferreira";
+concatena = '$(nome) $(sobrenome)';
+
+## Strings:
+- 'string'.include('palavra'): Verifica se string contem palavra
+- 'string'.startsWith('palavra'): Verifica se string começa com palavra
+
+## Number:
+- math.floor(numero) - Arredonda para baixo
+- math.ceil(numero) - Arredonda para cima
+
+
