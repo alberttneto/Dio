@@ -59,4 +59,40 @@ concatena = '$(nome) $(sobrenome)';
 - math.floor(numero) - Arredonda para baixo
 - math.ceil(numero) - Arredonda para cima
 
+## Função 
+- autoinvocável:
+(function(){})();
 
+- CallBacks:
+Função pode ser passada como parametro de outra função.
+
+- Valor padrão para argumento:
+function calc(num = 1){}; - se predefinido assume o valor 1.
+
+- Objeto arguments:
+Todos os argumentos passados como parametro da função
+
+- Elementos de array como parametro (Spread):
+nomefuncao(...nomeArray);
+
+- Combinar parametros para formar um array (Rest):
+function fun(...args){};
+
+- Passando valor de atributo de objeto como parametro:
+const user = {id: 50};
+function fun(id); 50 será o valor do argumento.
+
+
+## This:
+- Call informa a que objeto o this está se referindo
+function fun(){console.log(this.nome)};
+fun.call(nomeObjeto, Argumentos);
+
+- Apply Semelhante ao Call, mas quando passado argumentos deve usar array.
+fun.apply(nomeObjeto, [argumentos]);
+
+## Map
+- Podem chaves de qualquer tipo
+
+## Sets
+- Só armazena valores unicos
