@@ -91,8 +91,14 @@ fun.call(nomeObjeto, Argumentos);
 - Apply Semelhante ao Call, mas quando passado argumentos deve usar array.
 fun.apply(nomeObjeto, [argumentos]);
 
-## Map
-- Podem chaves de qualquer tipo
+## Map e Sets
+- Map: Podem chaves de qualquer tipo
+- Sets:  Só armazena valores unicos
 
-## Sets
-- Só armazena valores unicos
+## Error
+- Throw: Tranforma o erro de uma função em um erro javascript.
+- Finally: Independente se ocorreu erro ou não vai executar determinado comando.
+- Objeto Error: const meuErro = new Error(message, fileName, lineNumber);
+
+## JavaScript Assincrono
+- Promises: Objeto de processamento assincrono.
