@@ -108,3 +108,24 @@ fun.apply(nomeObjeto, [argumentos]);
 
 ## JavaScript Assincrono
 - Promises: Objeto de processamento assincrono.
+
+
+## Manipulando Arvore DOM:
+- Selecionando Elemento:
+document.createElement(element): Cria elemento
+document.removeChild(element): Remove elemento filho
+document.appendChild(element): Adiciona elemento filho
+document.replaceChild(new, old): Substitui elemento
+
+- Trabalhando com Estilos:
+element.classList.add(class): Adicionar classe
+element.classList.remove(class): Remove classe
+element.classList.toggle(class): Se existir classe remove, se não adiciona
+element.style.propriedade = valor: Modifica ou adiciona propriedade
+
+- Eventos:
+element.addEventListener(evento, funcao);
+mouseover e mouseout: Eventos do mouse
+click e dbclock: Eventos de click
+change e load: Eventos de atualização
+
