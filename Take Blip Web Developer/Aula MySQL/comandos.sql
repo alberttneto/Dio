@@ -114,3 +114,6 @@ ALTER TABLE videos_playlist ADD CONSTRAINT fk_playlist FOREIGN KEY (id_playlist)
 
 SELECT * FROM playlist JOIN videos_playlist ON playlist.id = videos_playlist.id_playlist
     JOIN videos ON videos.id = videos_playlist.id_videos;
+
+
+
