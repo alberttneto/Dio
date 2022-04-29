@@ -1,0 +1,15 @@
+## INTRODUÇÃO ##
+
+- Software construido em partes de forma interativa
+- Escopo definido ao longo do projeto
+- Mudanças constantes de acordo com feedbacks continuos.
+- Scrum um framework de projetos ageis
+- Entrega em partes menores de 2 a 4 semanas
+- MVP = Produto minimo viavel
+- PO = Representa área de negócios
+- SM = Garantir uso correto do SCRUM
+- TIME DEV = Poussi habilidades suficientes para desenvolver.
+- Time Box = Tempo máximo para fazer uma cerimônia ou Sprint
+- Sprint = corrida ou arrancada, 30 dias, O time define o tempo da sprint.
+- Review = Time DEV apresenta para o PO o trabalho feito
+- Retrospectiva da sprint = Reunião da equipe para lições aprendidas.
