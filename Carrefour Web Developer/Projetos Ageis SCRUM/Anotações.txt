@@ -13,3 +13,6 @@
 - Sprint = corrida ou arrancada, 30 dias, O time define o tempo da sprint.
 - Review = Time DEV apresenta para o PO o trabalho feito
 - Retrospectiva da sprint = Reunião da equipe para lições aprendidas.
+
+
+
