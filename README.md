@@ -4,4 +4,4 @@ Projetos e Anotações relacionados aos Bootcamps realizados na plataforma DIO.
 ## Bootcamps:
 
 1. Take Blip Web Developer
-2. Eduzz Fullstack Developer
+2. Carrefour Web Developer
